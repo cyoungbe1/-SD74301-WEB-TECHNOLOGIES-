@@ -1,0 +1,91 @@
+{
+    "recipe": [
+    {
+    "title": "Spaghetti with Sauce",
+    "description": "A steaming plate of al dente spaghetti with homemade sauce and a sprinkle of cheese is a guaranteed crowd-pleaser.",
+    "serving_size": "4 Servings",
+    "ingredients": [
+    {
+    "name": "Can tomatoes",
+    "quantity": "1"
+    },
+    {
+    "name": "Clove Garlic",
+    "quantity": "3"
+    },
+    {
+    "name": "Package Dry Spaghetti",
+    "quantity": "1"
+    },
+    {
+    "name": "Tablespoons Olive Oil",
+    "quantity": "2"
+    }
+    ],
+    "steps": [
+    "Mince Garlic",
+    "Saute Garlic",
+    "Boil Water",
+    "Cook"
+    ]
+    },
+    {
+    "title": "Chicken Alfredo",
+    "description": "Delicious chicken Alfredo with a creamy sauce.",
+    "serving_size": "4 Servings",
+    "ingredients": [
+    {
+    "name": "Chicken Breast",
+    "quantity": "2"
+    },
+    {
+    "name": "Heavy Cream",
+    "quantity": "1 cup"
+    },
+    {
+    "name": "Fettuccine Pasta",
+    "quantity": "8 oz"
+    },
+    {
+    "name": "Parmesan Cheese",
+    "quantity": "1/2 cup"
+    }
+    ],
+    "steps": [
+    "Cook Chicken",
+    "Prepare Alfredo Sauce",
+    "Boil Pasta",
+    "Combine and Serve"
+    ]
+    },
+    {
+    "title": "Caesar Salad",
+    "description": "A classic Caesar salad with homemade dressing.",
+    "serving_size": "2 Servings",
+    "ingredients": [
+    {
+    "name": "Romaine Lettuce",
+    "quantity": "1 head"
+    },
+    {
+    "name": "Croutons",
+    "quantity": "1 cup"
+    },
+    {
+    "name": "Caesar Dressing",
+    "quantity": "1/4 cup"
+    },
+    {
+    "name": "Parmesan Cheese",
+    "quantity": "1/4 cup"
+    }
+    ],
+    "steps": [
+    "Tear Lettuce",
+    "Add Croutons",
+    "Pour Dressing",
+    "Sprinkle Cheese"
+    ]
+    }
+    ]
+    }
