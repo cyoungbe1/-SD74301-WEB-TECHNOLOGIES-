@@ -1,5 +1,5 @@
 # -SD74301-WEB-TECHNOLOGIES-
- SD74301-WEB TECHNOLOGIES -  6-week group effort developing a React & Node.js Web Application for meal menu planning. The Angular framework was not included as we ran out of time and were forced to choose to work with only one of them. Full Assignment details below: 
+ SD74301-WEB TECHNOLOGIES -  6-week project developing a React & Node.js Web Application for meal menu planning. Full Assignment details below: 
 
 Meet Your Client: Cibus
 Week 1 - Meet cibus
